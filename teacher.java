@@ -16,6 +16,7 @@ public class Teacher {
             pst.setString(3, sc.nextLine());
             pst.executeUpdate();
             System.out.println("Teacher added successfully.");
+            
         } catch (Exception e) {
             e.printStackTrace();
         }
