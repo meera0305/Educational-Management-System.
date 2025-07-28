@@ -13,6 +13,7 @@ A Java + MySQL based console app to manage Students and Courses.
 - MySQL
 - JDBC
 
+
 ## 🗃️ MySQL Setup
 ```sql
 CREATE DATABASE edudb;
