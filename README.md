@@ -4,7 +4,7 @@ A Java + MySQL project to manage students and courses.
 
 A Java + MySQL based console app to manage Students and Courses.
 
-## 📂 Features
+## 📂 Features  
 - Add & View Students
 - Add & View Courses
 
