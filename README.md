@@ -12,7 +12,7 @@ A Java + MySQL based console app to manage Students and Courses.
 - Java
 - MySQL
 - JDBC
-
+  
 
 ## 🗃️ MySQL Setup
 ```sql
