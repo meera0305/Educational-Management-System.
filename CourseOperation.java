@@ -5,7 +5,7 @@ public class CourseOperations {
     public static void addCourse(Scanner sc) {
         System.out.print("Course ID: ");
         int id = sc.nextInt(); sc.nextLine();
-        System.out.print("Course Title: ");
+        System.out.print("Course Title: ");  
         String title = sc.nextLine();
 
         try (Connection con = DBConnection.getConnection()) {
