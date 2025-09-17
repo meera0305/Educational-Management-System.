@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class CourseOperations {
+public class CourseOperations {  
     public static void addCourse(Scanner sc) {
         System.out.print("Course ID: ");
         int id = sc.nextInt(); sc.nextLine();  
